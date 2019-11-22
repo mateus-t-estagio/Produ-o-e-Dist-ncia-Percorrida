@@ -1,0 +1,15 @@
+CodigoFerrovia;NomeFerrovia;NomeReduzidoFerrovia;SiglaFerrovia;LogotipoFerrovia;DataExclusao;IndicadorObrigatorioDesempenhoProducao
+1;Rumo Malha Sul;RMS;RMS;;;True
+2;Ferrovia Transnordestina Logística;FTL;FTL;;;True
+3;Estrada de Ferro Carajás;EFC;EFC;;;True
+4;Estrada de Ferro Vitória Minas;EFVM;EFVM;;;True
+5;Rumo Malha Paulista;RMP;RMP;;;True
+6;Estrada de Ferro Parana Oeste;FERROESTE;EFPO;;;True
+7;Rumo Malha Norte;RMN;RMN;;;True
+8;Ferrovia Centro-Atlântica;FCA;FCA;;;True
+9;Rumo Malha Oeste;RMO;RMO;;;True
+10;Ferrovia Tereza Cristina;FTC;FTC;;;True
+11;MRS Logística;MRS;MRS;;;True
+12;Ferrovia Norte-Sul - Tramo Norte;NORTE-SUL;FNSTN;;;True
+13;Ferrovia Norte-Sul - Tramo Central;NORTE-SUL - TC;FNSTC;;;False
+15;Transnordestina Logística S/A;TLSA;TLSA;;;False
