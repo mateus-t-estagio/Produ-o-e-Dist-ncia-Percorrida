@@ -26,7 +26,7 @@ lista = ['EFC', 'EFVM', 'FTC', 'FTL', 'FCA', 'RMN', 'RMP', 'RMO', 'RMS', 'MRS', 
 TremKMCarga = pd.read_excel(DATA_PATH.joinpath('Carga.xlsx'))
 TremKMServ = pd.read_excel(DATA_PATH.joinpath('Serv.xlsx'))
 Siade = pd.read_excel(DATA_PATH.joinpath('Siade.xlsx'))
-TremFormado = pd.read_excel(DATA_PATH.joinpath('TremFormado.xlsx'))
+TremFormado = pd.read_excel('TremFormado.xlsx'))
 
 df_trem_formado = {}
 df_tremkm = {}
